@@ -1,5 +1,5 @@
 ## Hi there 👋
-## ![react](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+## ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux&logoColor=white)]
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IakovlevKirill&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
