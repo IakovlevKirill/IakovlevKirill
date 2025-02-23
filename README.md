@@ -1,5 +1,6 @@
 ## Hi there 👋
-## ![react](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+## ![react](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IakovlevKirill&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **IakovlevKirill/IakovlevKirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
