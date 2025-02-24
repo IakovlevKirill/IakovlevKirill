@@ -1,7 +1,7 @@
 ## TECHNOLOGIES
 ##  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white) ![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ## STATS
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IakovlevKirill&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+## ![IakovlevKirill's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IakovlevKirill&theme=tokyonight&hide_border=true) ![IakovlevKirill's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IakovlevKirill&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <!--
 **IakovlevKirill/IakovlevKirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
